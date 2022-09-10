@@ -1,0 +1,23 @@
+{
+  "name": "w6ca",
+  "version": "1.0.0",
+  "description": "Game Of War Week 6",
+  "main": "GameOfWar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montezma/Coding-Assignment-Week-6.git"
+  },
+  "author": "Noah Montez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montezma/Coding-Assignment-Week-6/issues"
+  },
+  "homepage": "https://github.com/montezma/Coding-Assignment-Week-6#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
