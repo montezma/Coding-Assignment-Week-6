@@ -76,8 +76,7 @@ console.log(playerOnePoints + ', ' + playerTwoPoints)
 
 //Announces a winner
 if (playerOnePoints > playerTwoPoints) {
-    console.log('Player one wins! ')
+    console.log('Player one wins! ' + 'With ' + playerOnePoints + ' points!')
 } else {
-    console.log('Player two wins!')
-}   
-                        
+    console.log('Player two wins! ' + 'With ' + playerTwoPoints + ' points!')
+}
